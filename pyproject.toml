@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "goit-pythonweb-hw-08"
+version = "0.1.0"
+description = ""
+authors = ["ViktorSvertoka <115661003+ViktorSvertoka@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+asyncpg = "^0.30.0"
+sqlalchemy = "^2.0"
+alembic = "^1.14.0"
+greenlet = "^3.1.1"
+fastapi = "^0.95.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
