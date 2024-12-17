@@ -17,6 +17,8 @@ passlib = {extras = ["bcrypt"], version = "^1.7.4"}
 libgravatar = "^1.0.4"
 python-dotenv = "^1.0.1"
 slowapi = "^0.1.9"
+redis = "^5.2.1"
+redis-lru = "^0.1.2"
 
 
 [build-system]
