@@ -11,7 +11,7 @@ asyncpg = "^0.30.0"
 sqlalchemy = "^2.0"
 alembic = "^1.14.0"
 greenlet = "^3.1.1"
-fastapi = "^0.95.0"
+fastapi = "^0.115.6"
 python-jose = {extras = ["cryptography"], version = "^3.3.0"}
 passlib = {extras = ["bcrypt"], version = "^1.7.4"}
 libgravatar = "^1.0.4"
@@ -19,6 +19,9 @@ python-dotenv = "^1.0.1"
 slowapi = "^0.1.9"
 redis = "^5.2.1"
 redis-lru = "^0.1.2"
+fastapi-mail = "^1.4.2"
+pydantic = "^2.10.3"
+pydantic-settings = "^2.7.0"
 
 
 [build-system]
