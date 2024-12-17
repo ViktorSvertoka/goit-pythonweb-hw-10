@@ -408,6 +408,17 @@ files = [
 all = ["flake8 (>=7.1.1)", "mypy (>=1.11.2)", "pytest (>=8.3.2)", "ruff (>=0.6.2)"]
 
 [[package]]
+name = "libgravatar"
+version = "1.0.4"
+description = "A library that provides a Python 3 interface for the Gravatar API."
+optional = false
+python-versions = "*"
+files = [
+    {file = "libgravatar-1.0.4-py2.py3-none-any.whl", hash = "sha256:f967619b38914e0f941e53387881005e43929814571103f6bbfa2afd75045e20"},
+    {file = "libgravatar-1.0.4.tar.gz", hash = "sha256:05cf4f8dfefe995d09078cd3d747c8f04dcf17d6004fc7bb542049a55f2238d9"},
+]
+
+[[package]]
 name = "mako"
 version = "1.3.8"
 description = "A super-fast templating language that borrows the best ideas from the existing templating languages."
@@ -780,4 +791,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.13"
-content-hash = "7cb512dc5ffc19e81032fff35a8b40f3b130bc6c05f0d39bfe960811838da2e8"
+content-hash = "547e2acdea6f754aceabb58fa2e8ecea5b0ee9b2da6b6b2e2dd0476cb79ab613"
