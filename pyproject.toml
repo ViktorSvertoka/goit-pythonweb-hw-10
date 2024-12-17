@@ -22,6 +22,7 @@ redis-lru = "^0.1.2"
 fastapi-mail = "^1.4.2"
 pydantic = "^2.10.3"
 pydantic-settings = "^2.7.0"
+cloudinary = "^1.41.0"
 
 
 [build-system]
