@@ -100,3 +100,29 @@ API-застосунок** із попереднього домашнього з
 
 - Прикріплені файли репозиторію у форматі `zip` з назвою `ДЗ10_ПІБ`.
 - Посилання на репозиторій.
+
+### Результати виконаного завдання:
+
+#### 1 крок
+
+![Results](./assets/print_screen_01.png)
+
+#### 2 крок
+
+![Results](./assets/print_screen_02.png)
+
+#### 3 крок
+
+![Results](./assets/print_screen_03.png)
+
+#### 4 крок
+
+![Results](./assets/print_screen_04.png)
+
+#### 5 крок
+
+![Results](./assets/print_screen_05.png)
+
+#### 6 крок
+
+![Results](./assets/print_screen_06.png)
